@@ -1,0 +1,14 @@
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\bin\Debug\net6.0\Ejercicio 3.exe
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\bin\Debug\net6.0\Ejercicio 3.deps.json
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\bin\Debug\net6.0\Ejercicio 3.runtimeconfig.json
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\bin\Debug\net6.0\Ejercicio 3.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\bin\Debug\net6.0\Ejercicio 3.pdb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\Ejercicio 3.AssemblyInfoInputs.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\Ejercicio 3.AssemblyInfo.vb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\Ejercicio 3.vbproj.CoreCompileInputs.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\Ejercicio 3.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\refint\Ejercicio 3.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\Ejercicio 3.pdb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\Ejercicio 3.genruntimeconfig.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 05-09-2023\Ejercicio 3\Ejercicio 3\obj\Debug\net6.0\ref\Ejercicio 3.dll

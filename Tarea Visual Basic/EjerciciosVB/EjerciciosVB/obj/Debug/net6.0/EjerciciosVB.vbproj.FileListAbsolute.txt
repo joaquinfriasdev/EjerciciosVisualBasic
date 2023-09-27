@@ -1,0 +1,14 @@
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\bin\Debug\net6.0\EjerciciosVB.exe
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\bin\Debug\net6.0\EjerciciosVB.deps.json
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\bin\Debug\net6.0\EjerciciosVB.runtimeconfig.json
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\bin\Debug\net6.0\EjerciciosVB.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\bin\Debug\net6.0\EjerciciosVB.pdb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\EjerciciosVB.GeneratedMSBuildEditorConfig.editorconfig
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\EjerciciosVB.AssemblyInfoInputs.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\EjerciciosVB.AssemblyInfo.vb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\EjerciciosVB.vbproj.CoreCompileInputs.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\EjerciciosVB.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\refint\EjerciciosVB.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\EjerciciosVB.pdb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\EjerciciosVB.genruntimeconfig.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Tarea Visual Basic\EjerciciosVB\EjerciciosVB\obj\Debug\net6.0\ref\EjerciciosVB.dll
