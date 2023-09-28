@@ -1,0 +1,14 @@
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.exe
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.deps.json
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.runtimeconfig.json
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\bin\Debug\net6.0\Ejercicio5.pdb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.AssemblyInfoInputs.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.AssemblyInfo.vb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.vbproj.CoreCompileInputs.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\refint\Ejercicio5.dll
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.pdb
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\Ejercicio5.genruntimeconfig.cache
+D:\IF - Tecnicatura en Desarrollo de Software\Primer Año\Algoritmos y Lógicas de Programación\Segundo Cuatrimestre\Ejercicios 27-09-2023\Ejercicio5\Ejercicio5\obj\Debug\net6.0\ref\Ejercicio5.dll
